@@ -10,7 +10,7 @@
 
 		<service
 			android:name=".QuickSettingTileService"
-			android:icon="@mipmap/ic_launcher"
+			android:icon="@drawable/ic_yeeeeeeee"
 			android:label="@string/app_name"
 			android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
 			<intent-filter>
